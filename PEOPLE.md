@@ -1,2 +1,0 @@
-yluikliylyluylu
-Haskell Curry
